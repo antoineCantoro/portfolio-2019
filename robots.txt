@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /drive/
+Disallow: /2016/
+Disallow: /2017/
+Disallow: /server/
